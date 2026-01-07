@@ -64,7 +64,7 @@ Jupyter Notebook
 
 ⚙️ Como Executar o Projeto
 1️⃣ Clonar o repositório
-git clone https://github.com/viana771/analise-vendas-basica.git
+git clone https://github.com/viana7771/analise-vendas-basica.git
 
 2️⃣ Criar e ativar o ambiente virtual
 python -m venv venv
