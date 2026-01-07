@@ -20,6 +20,12 @@ Analisar o comportamento das vendas ao longo do tempo
 🗂️ Estrutura do Projeto
 analise-vendas-basica/
 │
+│
+├── images/
+│   ├── faturamento_categoria.png
+│   ├── faturamento_produto.png
+│   └── vendas_diaria.png
+│
 ├── data/
 │   └── vendas.csv
 │
@@ -90,15 +96,13 @@ Análise temporal das vendas
 
 🔎 Principais Insights
 
-⚠️ Substitua os valores abaixo pelos resultados reais da sua análise
-
-O faturamento total no período analisado foi de R$ X
+O faturamento total no período analisado foi de R$ 48745.00
 
 Produtos de alto ticket, como Notebooks, representam uma parcela significativa da receita
 
-A categoria Periféricos possui o maior volume de vendas, porém com menor impacto no faturamento total
+A categoria Periféricos possui o maior volume de vendas, porém com um menor impacto no faturamento total por conta do seu baixo custo por venda 
 
-O ticket médio por venda foi de aproximadamente R$ X
+O ticket médio por venda foi de aproximadamente R$ 826.19
 
 As vendas apresentaram oscilações ao longo do mês, com picos em dias específicos
 
@@ -107,10 +111,17 @@ As vendas apresentaram oscilações ao longo do mês, com picos em dias específ
 Foram gerados gráficos para facilitar a interpretação dos dados, incluindo:
 
 Gráfico de barras de faturamento por produto
+![Faturamento por Produto](imagens\faturamento_produto.png)
+Os produtos notebooks apresentão ou alto faturamento mesmo tendo poucas vendas, isso se ta justamente pelo seu alto valor 
+
 
 Gráfico de barras de faturamento por categoria
+![Faturamento por Cateoria](imagens\faturamento_categoria.png)
+As categorias de computadores e monitores são as que mais faturam, mesmo com menor volume de venda, é viável também os periféricos pois tem um custo menor mas compensa pelas altas quantidades de produtos vendidos 
 
 Gráfico de linha mostrando a evolução das vendas ao longo do tempo
+![Vendas Diárias](imagens\vendas_diaria.png)
+Há um pico significativo de vendas em um determinaso período, possivelmente associado a promoções ou sazonalidade.
 
 🚀 Próximos Passos
 
@@ -125,4 +136,4 @@ Expandir o dataset com informações de clientes e formas de pagamento
 Kairê Henrique Viana dos Santos
 📌 Estudante de Análise e Desenvolvimento de Sistemas
 📊 Foco em Análise e Ciência de Dados
-🔗 GitHub: https://github.com/seu-usuario
+🔗 GitHub: https://github.com/viana7771
