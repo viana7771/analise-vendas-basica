@@ -1,0 +1,60 @@
+data,produto,categoria,quantidade,preco
+2024-01-01,Mouse,Periféricos,2,50
+2024-01-01,Teclado,Periféricos,1,120
+2024-01-02,Monitor 24,Monitores,1,900
+2024-01-02,Headset,Periféricos,2,180
+2024-01-03,Mouse,Periféricos,3,50
+2024-01-03,Cadeira Gamer,Móveis,1,750
+2024-01-04,Notebook,Computadores,1,3500
+2024-01-04,Mousepad,Periféricos,2,40
+2024-01-05,Monitor 27,Monitores,1,1200
+2024-01-05,Teclado Mecânico,Periféricos,1,350
+2024-01-06,Impressora,Escritório,1,800
+2024-01-06,Papel A4,Escritório,5,35
+2024-01-07,Mouse,Periféricos,4,50
+2024-01-07,Headset,Periféricos,1,180
+2024-01-08,Cadeira Escritório,Móveis,1,600
+2024-01-08,Monitor 24,Monitores,2,900
+2024-01-09,Notebook,Computadores,1,3500
+2024-01-09,Mousepad,Periféricos,3,40
+2024-01-10,Teclado,Periféricos,2,120
+2024-01-10,Webcam,Periféricos,1,250
+2024-01-11,Monitor 27,Monitores,1,1200
+2024-01-11,Mouse,Periféricos,2,50
+2024-01-12,HD Externo,Armazenamento,1,450
+2024-01-12,SSD 1TB,Armazenamento,1,600
+2024-01-13,Notebook,Computadores,1,3500
+2024-01-13,Mousepad,Periféricos,2,40
+2024-01-14,Teclado Mecânico,Periféricos,1,350
+2024-01-14,Headset,Periféricos,2,180
+2024-01-15,Cadeira Gamer,Móveis,1,750
+2024-01-15,Monitor 24,Monitores,1,900
+2024-01-16,Impressora,Escritório,1,800
+2024-01-16,Papel A4,Escritório,10,35
+2024-01-17,Mouse,Periféricos,5,50
+2024-01-17,Webcam,Periféricos,2,250
+2024-01-18,SSD 1TB,Armazenamento,1,600
+2024-01-18,HD Externo,Armazenamento,2,450
+2024-01-19,Notebook,Computadores,1,3500
+2024-01-19,Teclado,Periféricos,3,120
+2024-01-20,Monitor 27,Monitores,2,1200
+2024-01-20,Mousepad,Periféricos,4,40
+2024-01-21,Cadeira Escritório,Móveis,1,600
+2024-01-21,Mouse,Periféricos,3,50
+2024-01-22,Headset,Periféricos,1,180
+2024-01-22,Webcam,Periféricos,1,250
+2024-01-23,Monitor 24,Monitores,1,900
+2024-01-23,Teclado Mecânico,Periféricos,1,350
+2024-01-24,Notebook,Computadores,1,3500
+2024-01-24,SSD 1TB,Armazenamento,1,600
+2024-01-25,Mouse,Periféricos,4,50
+2024-01-25,Papel A4,Escritório,8,35
+2024-01-26,Impressora,Escritório,1,800
+2024-01-26,Monitor 27,Monitores,1,1200
+2024-01-27,Cadeira Gamer,Móveis,1,750
+2024-01-27,Mousepad,Periféricos,5,40
+2024-01-28,Headset,Periféricos,2,180
+2024-01-28,Teclado,Periféricos,2,120
+2024-01-29,Notebook,Computadores,1,3500
+2024-01-29,Monitor 24,Monitores,1,900
+2024-01-30,Mouse,Periféricos,6,50
